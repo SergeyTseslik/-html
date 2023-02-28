@@ -1,0 +1,55 @@
+h2 {
+    color: red;
+    font-size: 30px;
+    text-align:center;
+    font-weight:100;
+    font-style:italic;
+    text-decoration: line-through;
+    font-size:30px;
+}
+.chapter {
+color:blue;
+}
+#begin {
+    color:orange;
+}
+.text {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    font-weight:900;
+}
+.red {
+ 
+    background-color:red;
+}
+nav {
+   /*  static,relative,sbsolute,fixed,inherit */
+    position:inherit;
+    /* right:80px; влево */
+    left:130px; /* вправо */
+    bottom:150px;/*  вверх */
+   /*  top:60px; вниз */
+}
+.dr {
+    display:block;
+}
+.color {
+    display:inline;
+    color:red;
+}
+.gg {
+    display:block;
+    margin:0 auto;
+    width: 500px;
+  
+}
+.box {
+    vertical-align:middle;
+    display:inline-block;
+    background-color:aqua;
+    border:3px solid black;
+    height:300px;
+    width:300px;
+
+}
